@@ -1,0 +1,4 @@
+Crie um sistema de chat cliente-servidor com múltiplos clientes com a Linguagem de programação Python utilizando Socket e Thread.
+
+Este programa deve ter um servidor que permita que vários cliente se conectem e conversem entre si. 
+Quando o usuário qualquer enviar uma mensagem para o servidor, a mensagem deve ser retransmitida para todos os clientes conectados ao servidor.
